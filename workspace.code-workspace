@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../Downloads"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../ethminer-m1"
+		}
+	],
+	"settings": {}
+}
